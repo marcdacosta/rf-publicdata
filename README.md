@@ -8,12 +8,14 @@ The airwaves can be a cacophonous place. Signals from GPS satellites exist along
 * 700mhz Auction News: http://www.broadcastingcable.com/news/washington/spectrum-auction-finally-ends-total-take-198-billion/164523
 * Satellite Sounds: Capturing Satellite Imagery: http://satellite-sounds.dhruvmehrotra.info/
 * Cocoa1090: http://www.blackcatsystems.com/software/cocoa1090.html
+* Buzzfeed Spy Place Story: https://www.buzzfeed.com/peteraldhous/hidden-spy-planes?utm_term=.aeKdYN3E0L#.ga3LjbzQ0W
 
 ## FCC License Data:
 * ULS: http://wireless.fcc.gov/uls/index.htm?job=transaction&page=weekly
 * License view: http://reboot.fcc.gov/license-view/
 
-## repos:
-* https://github.com/marcdacosta/spectrum-wrangler
+## Project Repos:
+* Spectrum Wrangler: https://github.com/marcdacosta/spectrum-wrangler
+* Ambient Shipping: https://github.com/marcdacosta/ambient-shipping
 
-* buzzfeed planes : https://www.buzzfeed.com/peteraldhous/hidden-spy-planes?utm_term=.aeKdYN3E0L#.ga3LjbzQ0W
+
