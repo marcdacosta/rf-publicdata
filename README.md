@@ -12,6 +12,7 @@ The airwaves can be a cacophonous place. Signals from GPS satellites exist along
 * Buzzfeed Spy Place Story: https://www.buzzfeed.com/peteraldhous/hidden-spy-planes?utm_term=.aeKdYN3E0L#.ga3LjbzQ0W
 * ProPublica Mar-a-Lago investiation: https://www.propublica.org/article/any-half-decent-hacker-could-break-into-mar-a-lago
 * Defense Information Systems Agency best practices: https://iase.disa.mil/Pages/index.aspx
+* RTL-SDR Hobbyist Guide: https://www.surviveuk.com/wp-content/uploads/2016/07/The-Hobbyists-Guide-To-RTL-SDR-Carl-Laufer.pdf
 
 ## FCC License Data:
 * ULS: http://wireless.fcc.gov/uls/index.htm?job=transaction&page=weekly
