@@ -6,9 +6,12 @@ The airwaves can be a cacophonous place. Signals from GPS satellites exist along
 * FCC Spectrum Sellers: https://apps.fcc.gov/edocs_public/attachmatch/DA-17-314A2.pdf
 * FCC Spectrum Buyers: https://apps.fcc.gov/edocs_public/attachmatch/DA-17-314A3.pdf
 * 700mhz Auction News: http://www.broadcastingcable.com/news/washington/spectrum-auction-finally-ends-total-take-198-billion/164523
+* GQRX radio receiver: http://gqrx.dk/
 * Satellite Sounds: Capturing Satellite Imagery: http://satellite-sounds.dhruvmehrotra.info/
 * Cocoa1090: http://www.blackcatsystems.com/software/cocoa1090.html
 * Buzzfeed Spy Place Story: https://www.buzzfeed.com/peteraldhous/hidden-spy-planes?utm_term=.aeKdYN3E0L#.ga3LjbzQ0W
+* ProPublica Mar-a-Lago investiation: https://www.propublica.org/article/any-half-decent-hacker-could-break-into-mar-a-lago
+* Defense Information Systems Agency best practices: https://iase.disa.mil/Pages/index.aspx
 
 ## FCC License Data:
 * ULS: http://wireless.fcc.gov/uls/index.htm?job=transaction&page=weekly
